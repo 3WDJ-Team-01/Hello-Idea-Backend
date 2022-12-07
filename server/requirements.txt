@@ -16,7 +16,7 @@ botocore==1.8.21
 bs4==0.0.1
 bz2file==0.98
 cachetools==3.0.0
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.12.1
 chardet==3.0.4
 classifier==2.0
